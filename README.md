@@ -3,7 +3,7 @@
 
 ### 👋 Hi, here is xandery-geek!
 
-- I am a master student 👨‍🎓 at Harbin Institute of Technology,ShenZhen, focused on computer vision and artificial intelligence security 🤖. 
+- I am a master's student 👨‍🎓 at the Harbin Institute of Technology, ShenZhen, focused on computer vision and artificial intelligence security 🤖. 
 
 
 <!---
