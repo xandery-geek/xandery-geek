@@ -3,8 +3,7 @@
 
 ### 👋 Hi, here is xandery-geek!
 
-- I am a master's student 👨‍🎓 at the Harbin Institute of Technology, ShenZhen, focused on computer vision and artificial intelligence security 🤖. 
-
+- I am a PhD student 👨‍🎓 at The Hong Kong Polytechnic University, focused on Trustworthy Machine Learning 🤖 and Multi-modal Large Language Model. 
 
 <!---
 xandery-geek/xandery-geek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
