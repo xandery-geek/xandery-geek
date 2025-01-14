@@ -3,7 +3,13 @@
 
 ### Hi, here is xandery-geek ✨✨✨
 
+- I am a PhD student at The Hong Kong Polytechnic University.
+- My research interests mainly focus on vision and language understanding.
+- Welcome any academic discussion and cooperation！
+
+<!---
 - I am a PhD student at The Hong Kong Polytechnic University, focused on Multi-modal Large Language Models and Trustworthy Machine Learning. Welcome any academic discussion and cooperation！
+--->
 
 <!---
 xandery-geek/xandery-geek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
